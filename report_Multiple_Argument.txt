@@ -1,0 +1,42 @@
+Test Case ID: TC-002.01
+URL: http://www.learn2test.net
+Title Expected: learn2test.net
+Title Actual: learn2test.net
+Test Case Result: PASSED
+
+Test Case ID: TC-002.02
+URL: http://www.yahoo.com
+Title Expected: Yahoo
+Title Actual: Yahoo
+Test Case Result: PASSED
+
+Test Case ID: TC-002.03
+URL: http://www.google.com
+Title Expected: Google
+Title Actual: Google
+Test Case Result: PASSED
+
+Test Case ID: TC-002.04
+URL: http://www.digikey.com
+Title Expected: DigiKey Electronics - Electronic Components Distributor
+Title Actual: DigiKey Electronics - Electronic Components Distributor
+Test Case Result: PASSED
+
+Test Case ID: TC-002.05
+URL: http://www.mouser.com
+Title Expected: Mouser Electronics - Electronic Components Distributor
+Title Actual: Mouser Electronics - Electronic Components Distributor
+Test Case Result: PASSED
+
+Test Case ID: TC-002.06
+URL: http://www.redwoodcu.org
+Title Expected: Redwood Credit Union | Bay Area Credit Union | Santa Rosa CA
+Title Actual: Redwood Credit Union | Bay Area Credit Union | Santa Rosa CA
+Test Case Result: PASSED
+
+Test Case ID: TC-002.07
+URL: http://www.jcrew.com
+Title Expected: J.Crew: Clothes
+Title Actual: J.Crew: Clothes, Shoes & Accessories for Women, Men & Kids
+Test Case Result: FAILED
+

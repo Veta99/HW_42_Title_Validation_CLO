@@ -46,7 +46,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							 <mainClass>core.CLO_SingleArgument</mainClass> 
+							 <mainClass>${mc.mainClass}</mainClass> 
 						</manifest>
 					</archive>
 					<descriptorRefs>
