@@ -1,0 +1,6 @@
+Test Case ID: TC-001.02
+URL: http://www.yahoo.com
+Title Expected: Yahoo
+Title Actual: Yahoo
+Test Case Result: PASSED
+
